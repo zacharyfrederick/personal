@@ -1,5 +1,7 @@
 # Apply to 5 jobs today
 
+
+### May 1st 2020
 - [ ] [Amazon AI Software Developer](https://www.amazon.jobs/en/jobs/1524266/software-developer-amazon-ai)
 - [ ] [Apple Machine Learning Systems Enginee](https://jobs.apple.com/en-us/details/200209701/machine-learning-systems-engineer?team=MLAI)
 - [ ] [Apple Software Engineer](https://jobs.apple.com/en-us/details/200229918/software-engineer?team=HRDWR)
