@@ -4,3 +4,4 @@
 3. [Financial Statement Analysis](https://charteredonlineupload.files.wordpress.com/2011/12/financial-statement-analysis-lifa.pdf)
 4. [jobs list](jobs.md)
 5. [Reading List](reading_list.md)
+6. backup finances - gs://zion-sharadar/main.gnucash
