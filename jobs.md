@@ -25,7 +25,7 @@
  - [ ] [Sentry Software Engineer Growth](https://www.linkedin.com/jobs/view/2779486993/?alternateChannel=search&refId=t7mmupbBtbTLFRw3tOb1tA%3D%3D&trackingId=tHPFurLFUCSzb2%2FzlngDsw%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BexRdRzibQg2JcleR2DAARw%3D%3D)
  - [ ] [Sentry Data Engineer](https://www.linkedin.com/jobs/view/2709276059/?alternateChannel=search&refId=t7mmupbBtbTLFRw3tOb1tA%3D%3D&trackingId=rBnMNrSXCI%2BQNvV3B6kXbg%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BZCzEPIkjRmKuWXCb6b2lWw%3D%3D)
  - [ ] [Solidworks Machine Learning Engineer](https://www.linkedin.com/jobs/view/2824608315/?alternateChannel=search&refId=62S3PgvMylZUm0rXTwsVlA%3D%3D&trackingId=2M9tdwAwGQ6O0z2v%2Flgzdw%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bu9uta%2FvIQQ2l7rYyqDI8sA%3D%3D)
- - [ ] [Spotify Machine Learning Engineer](https://www.linkedin.com/jobs/view/2818799486/?alternateChannel=search&refId=62S3PgvMylZUm0rXTwsVlA%3D%3D&trackingId=tcElpVTyDyXqzjOIVXZsLQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0jdCZWm%2FQlCb1NM3JnsIUA%3D%3D)
+ - [X] [Spotify Machine Learning Engineer](https://www.linkedin.com/jobs/view/2818799486/?alternateChannel=search&refId=62S3PgvMylZUm0rXTwsVlA%3D%3D&trackingId=tcElpVTyDyXqzjOIVXZsLQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0jdCZWm%2FQlCb1NM3JnsIUA%3D%3D)
 
 # Common Keywords Across All Postings
 1. Python
