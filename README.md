@@ -4,6 +4,7 @@
 - [ ] Cancel all the dam subscriptions
 - [ ] Read [GNUCash Documentation](https://www.gnucash.org/viewdoc.phtml?rev=4&lang=C&doc=guide)
 - [ ] Make Personal GNUCash Book
+- [ ] Follow up with Bud??
 
 # Old
 - [X] Create Smolov JR Program
