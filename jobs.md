@@ -1,3 +1,6 @@
+# Seem interesting
+- [ ] [Meta Scientist Intern](https://www.linkedin.com/jobs/view/2819112504/?eBP=CwEAAAF9u__odjecj8JcBXDnCpzD8nrE4tppcYBr0g8IgD8DiLQD7Q3zdWhGo-O8O_ELi2N8VD0BquNmlo6ReLcgfSVZQNfx3oZgRXlH0WJc6lor78CQM2d-wCjjX3haLuydUI8zbY6Oxrqx3Dxach9pWhanyy3zDyAt14Bww5rVeMPAsjtm_IJQuVZqR0RiuPK6IbpJazHpqhC8RnumzER4_N7V4m7Qd-L4PEJ-Mex5tbMN3NplQ5aSYA5vrrYnpNfy6F-CmJ32_DcaBsf6u1C-IEBDtlmf70LlTQeqj2YCyT09WftVgc72rIEJtLMzpg-isEtWGalHG6uCFSUXo-jbMtBpov0rBj4RNsCpDShuNJw8MOY5f6XCe0o6gQ&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=gdQNR0xXE33XuPn3EI1rsw%3D%3D&trackingId=uM1QISdMc9Juh7soDqvIpQ%3D%3D&trk=flagship3_search_srp_jobs)
+- [ ] [Meta Extreme Vision](https://www.linkedin.com/jobs/view/2819120757/?eBP=CwEAAAF9u__od9Qyls7s_-k9t-DqsSAK1kerzll_PE988vuuQk73g60RjAPqKARn2gwVYTHQxGmYgj4zNwdbXdZqi7AmSju3EMoQheBFgOMFnwPTzk3NpXX-jCqAG2LyWpWCYsFn9zKYh97ETMVIQr9Cd6uQ_uq8sZy6FQmEu2Bc1pQtzssCvWCrrywLDU0MsTWg8RwcrIj8_bwFCMj23qjHjvwSAm9ecDQnRH-8fCI7lsTjrMGCxLgEAwipbSiaEi1lErFOrtKVyDXNMfhlSgqm6zuP7VceB9HrsAQ0aa3a9ZBx360yC8VfxEF-Q76LD1peI2YN3HUEF9drouSQWWSsMkoXiljoPvbMgQCwKB5aPw-O3pJClryY-GtVZVGg&recommendedFlavor=SCHOOL_RECRUIT&refId=gdQNR0xXE33XuPn3EI1rsw%3D%3D&trackingId=xY2F8o6HGRnNy%2BT%2Bh4%2BoKg%3D%3D&trk=flagship3_search_srp_jobs)
 # Check back to see if these get fixed
 12/14/2021: Still not working
 - [ ] [Goldman Investment Banking](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81130/?utm_medium=jobshare)
@@ -42,6 +45,9 @@
  - [X] [Bank of America Quanitative Programmer](https://www.linkedin.com/jobs/view/2832680083/?alternateChannel=search&refId=nu7bK9MrIJGRvGzBqIwKTQ%3D%3D&trackingId=cj%2FpCsSPVusbZlgsnnA%2BRA%3D%3D&trk=d_flagship3_search_srp_jobs)
  - [X] [Microsoft Software Engineer II](https://www.linkedin.com/jobs/view/2837701329/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=4kPbqKbP%2BV%2BRrCUqgeXWeg%3D%3D&trackingId=CuGUxk76D8ToIO%2F8tY1piA%3D%3D&trk=flagship3_search_srp_jobs)
  - [X] [Microsoft AI Engineer II](https://www.linkedin.com/jobs/view/2807708458/?eBP=CwEAAAF9u-v1B0-1MHFR0E7XleYiFmq_44GWKlNRKqvOhfr_G0lJYkxgN1fVSHGYq7IlDGSuDiIUNK_yj4MycqDhoiy6rlwHRlorRIIhN0IrAGfzBPegiLm2lwlOQx2hWqZaMdNFhvLZ4twyQ4ka6u-TVj6X_dcRmXvVmgwzRvJem4fVBUQvzd1PZUM31G38EqV8yK10nVOCZY3oXt62HFeCc6NLym3VOyk7MUoTxCd4mgguPYRve8wp6Z-QLt3G6bQlbCI6rz5Ef-IkvqGAWgtb3ykm0u5nVP_IvpwIkM0kDUS-Wmi5Fr_pzkyCDYdvculbw0am_HHgEpe4e0NcvGOf1rdwGh8_7A8y_Ux1lcjgU17myJyvhVJ19Juxa9Ed9G02dA&recommendedFlavor=SCHOOL_RECRUIT&refId=4kPbqKbP%2BV%2BRrCUqgeXWeg%3D%3D&trackingId=5InFK5i4gLYb%2FhDgwt4xTg%3D%3D&trk=flagship3_search_srp_jobs)
+ - [X] [Microsoft Software Engineer](https://www.linkedin.com/jobs/view/2828816253/?alternateChannel=search&refId=gjx4Q7bTsKgcKmelIEis4A%3D%3D&trackingId=o2S%2Betlaaz4bwyuMbwdwSA%3D%3D&trk=d_flagship3_search_srp_jobs)
+ - [X] [Forensic Technology Senior Associate](https://www.linkedin.com/jobs/view/2814404944/?alternateChannel=search&refId=BYlywiGgRJ%2FLyrehL9fUdA%3D%3D&trackingId=DvLKsS0s0nyZwIknCNFbyw%3D%3D)
+ 
 
 ## New York
  - [X] [Spotify Machine Learning Engineer](https://www.linkedin.com/jobs/view/2818799486/?alternateChannel=search&refId=62S3PgvMylZUm0rXTwsVlA%3D%3D&trackingId=tcElpVTyDyXqzjOIVXZsLQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0jdCZWm%2FQlCb1NM3JnsIUA%3D%3D)
