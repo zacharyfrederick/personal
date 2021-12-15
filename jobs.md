@@ -1,4 +1,5 @@
 # Check back to see if these get fixed
+12/14/2021: Still not working
 - [ ] [Goldman Investment Banking](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81130/?utm_medium=jobshare)
 - [ ] [Goldman Investment Professional](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/88281/?utm_medium=jobshare)
 # Denver (maybe some others)
@@ -39,6 +40,9 @@
  - [X] [Slack Staff Software Engineer](https://www.linkedin.com/jobs/view/2819503355/?alternateChannel=search&refId=rP1XH6JhgxJTsH5r9A0FTw%3D%3D&trackingId=NOMa4TmVK73TMMcPBWm91A%3D%3D&trk=d_flagship3_search_srp_jobs)
  - [X] [Blackrock Portfolio Analytics Engineer](https://www.linkedin.com/jobs/view/2817322509/?alternateChannel=search&refId=rP1XH6JhgxJTsH5r9A0FTw%3D%3D&trackingId=9kVomVBS4bC6aimkZfUB1A%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BwjlwDypoQlCwzWkB583qpw%3D%3D)
  - [X] [Bank of America Quanitative Programmer](https://www.linkedin.com/jobs/view/2832680083/?alternateChannel=search&refId=nu7bK9MrIJGRvGzBqIwKTQ%3D%3D&trackingId=cj%2FpCsSPVusbZlgsnnA%2BRA%3D%3D&trk=d_flagship3_search_srp_jobs)
+ - [X] [Microsoft Software Engineer II](https://www.linkedin.com/jobs/view/2837701329/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=4kPbqKbP%2BV%2BRrCUqgeXWeg%3D%3D&trackingId=CuGUxk76D8ToIO%2F8tY1piA%3D%3D&trk=flagship3_search_srp_jobs)
+ - [X] [Microsoft AI Engineer II](https://www.linkedin.com/jobs/view/2807708458/?eBP=CwEAAAF9u-v1B0-1MHFR0E7XleYiFmq_44GWKlNRKqvOhfr_G0lJYkxgN1fVSHGYq7IlDGSuDiIUNK_yj4MycqDhoiy6rlwHRlorRIIhN0IrAGfzBPegiLm2lwlOQx2hWqZaMdNFhvLZ4twyQ4ka6u-TVj6X_dcRmXvVmgwzRvJem4fVBUQvzd1PZUM31G38EqV8yK10nVOCZY3oXt62HFeCc6NLym3VOyk7MUoTxCd4mgguPYRve8wp6Z-QLt3G6bQlbCI6rz5Ef-IkvqGAWgtb3ykm0u5nVP_IvpwIkM0kDUS-Wmi5Fr_pzkyCDYdvculbw0am_HHgEpe4e0NcvGOf1rdwGh8_7A8y_Ux1lcjgU17myJyvhVJ19Juxa9Ed9G02dA&recommendedFlavor=SCHOOL_RECRUIT&refId=4kPbqKbP%2BV%2BRrCUqgeXWeg%3D%3D&trackingId=5InFK5i4gLYb%2FhDgwt4xTg%3D%3D&trk=flagship3_search_srp_jobs)
+
 ## New York
  - [X] [Spotify Machine Learning Engineer](https://www.linkedin.com/jobs/view/2818799486/?alternateChannel=search&refId=62S3PgvMylZUm0rXTwsVlA%3D%3D&trackingId=tcElpVTyDyXqzjOIVXZsLQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0jdCZWm%2FQlCb1NM3JnsIUA%3D%3D)
 ## Texas
