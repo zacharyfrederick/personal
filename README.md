@@ -5,6 +5,7 @@
 - [ ] Schedule interview with PWC
 - [ ] Fill out microsoft recruiter survey
 - [ ] Apply to In-Q-Tel internship
+- [ ] Cancel Groundswell membership
 # Old
 - [X] Create Smolov JR Program
 - [X] Make Personal GNUCash Book
