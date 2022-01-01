@@ -48,8 +48,8 @@
  - [X] [Microsoft AI Engineer II](https://www.linkedin.com/jobs/view/2807708458/?eBP=CwEAAAF9u-v1B0-1MHFR0E7XleYiFmq_44GWKlNRKqvOhfr_G0lJYkxgN1fVSHGYq7IlDGSuDiIUNK_yj4MycqDhoiy6rlwHRlorRIIhN0IrAGfzBPegiLm2lwlOQx2hWqZaMdNFhvLZ4twyQ4ka6u-TVj6X_dcRmXvVmgwzRvJem4fVBUQvzd1PZUM31G38EqV8yK10nVOCZY3oXt62HFeCc6NLym3VOyk7MUoTxCd4mgguPYRve8wp6Z-QLt3G6bQlbCI6rz5Ef-IkvqGAWgtb3ykm0u5nVP_IvpwIkM0kDUS-Wmi5Fr_pzkyCDYdvculbw0am_HHgEpe4e0NcvGOf1rdwGh8_7A8y_Ux1lcjgU17myJyvhVJ19Juxa9Ed9G02dA&recommendedFlavor=SCHOOL_RECRUIT&refId=4kPbqKbP%2BV%2BRrCUqgeXWeg%3D%3D&trackingId=5InFK5i4gLYb%2FhDgwt4xTg%3D%3D&trk=flagship3_search_srp_jobs)
  - [X] [Microsoft Software Engineer](https://www.linkedin.com/jobs/view/2828816253/?alternateChannel=search&refId=gjx4Q7bTsKgcKmelIEis4A%3D%3D&trackingId=o2S%2Betlaaz4bwyuMbwdwSA%3D%3D&trk=d_flagship3_search_srp_jobs)
  - [X] [Forensic Technology Senior Associate](https://www.linkedin.com/jobs/view/2814404944/?alternateChannel=search&refId=BYlywiGgRJ%2FLyrehL9fUdA%3D%3D&trackingId=DvLKsS0s0nyZwIknCNFbyw%3D%3D)
- 
-
+ - [X] [JPMorgan Software Engineering](https://www.linkedin.com/jobs/view/2848251649/?alternateChannel=search&refId=uyxhMBYb4PXJKoZBbwUO3A%3D%3D&trackingId=jFgnXOCb%2FZ5ZOe8hngn7Vg%3D%3D&trk=d_flagship3_search_srp_jobs) 
+ - [X] [Blackrock Data Engineer] (https://www.linkedin.com/jobs/view/2859164357/?alternateChannel=search&refId=uyxhMBYb4PXJKoZBbwUO3A%3D%3D&trackingId=q0EPZN4PcUK14PT6WBttnQ%3D%3D)
 ## New York
  - [X] [Spotify Machine Learning Engineer](https://www.linkedin.com/jobs/view/2818799486/?alternateChannel=search&refId=62S3PgvMylZUm0rXTwsVlA%3D%3D&trackingId=tcElpVTyDyXqzjOIVXZsLQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0jdCZWm%2FQlCb1NM3JnsIUA%3D%3D)
 ## Texas
